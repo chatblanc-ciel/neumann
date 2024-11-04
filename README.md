@@ -322,3 +322,7 @@ docker compose -f docker-compose.proxy.yml -p proxy down
 ## UI設計
 
 [BizRank UI](https://www.figma.com/design/UGugSfQCkplaBzaCzS6MC7/BizRank-UI?t=raAITMBgXsV28qXH-1)
+
+## Reference
+
+- [BizRank公開](https://zenn.dev/unemployed/articles/bizrank-source-code-free)
